@@ -1,0 +1,4 @@
+langchain
+openai
+colorama
+python-dotenv
